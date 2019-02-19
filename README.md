@@ -1,1 +1,1 @@
-This project moved to <https://gitlab.marlam.de/marlam/gencolormap>
+This project moved to <https://marlam.de/gencolormap>
